@@ -11,7 +11,7 @@ const Footer = () => {
     
     <div className=''>
       <div className=''>
-        <h1 className='font-black mb-4 mt-3 text-[38px] font-bold mt-3 text-2xl md:text-[38px]'>SHOP.CO</h1>
+        <h1 className='font-black mb-4 mt-3 text-[38px] mt-3 text-2xl md:text-[38px]'>SHOP.CO</h1>
       </div>
       <div>
         <p className='mb-0.25 text-[#00000099]'>We have clothes that suit your style and</p>
