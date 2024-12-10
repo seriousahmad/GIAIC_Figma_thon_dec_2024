@@ -18,7 +18,7 @@ const Browseby = () => {
         </div>
 
         <div>
-        <div className='mt-4 ml-10 absolute hover:underline  font-semibold text-[38px]'>Formality</div>
+        <div className='mt-4 ml-10 absolute hover:underline  font-semibold text-[38px]'>Formal</div>
         <Image className='h-[280px] w-[680px] mt-[10px]' src={require('/public/image 13.png')} alt=''/>
         </div>
     </div>
