@@ -15,7 +15,7 @@ const Footer = () => {
       </div>
       <div>
         <p className='mb-0.25 text-[#00000099]'>We have clothes that suit your style and</p>
-        <p className='mb-0.25 text-[#00000099]'>which you're proud to wear. From</p>
+        <p className='mb-0.25 text-[#00000099]'>which you are proud to wear. From</p>
         <p className='text-[#00000099]'>women to men</p>
       </div>
       <br />
