@@ -16,7 +16,7 @@ const Hero = () => {
         <button className='mt-5 bg-[#000000] text-[#FFFFFF] text-[14px] w-[175px] h-[38px] rounded-[35px] mx-auto md:mx-0'>Shop Now</button>
         </div>
 
-        <div className='absolute lg:mt-[50px] lg:ml-[1250px]'>
+        <div className='absolute lg:mt-[50px] lg:ml-[1150px]'>
         <Image className='lg:mb-[100px] lg:h-[100px] lg:w-[100px] lg:mt-[10px]' src={require('/public/Vector (3).png')} alt=''/>
         </div>
 
