@@ -7,7 +7,7 @@ const Navbar = () => {
 
 <div className='pb-5 w-full h-[95px] border-b-2 border-[#EAEAEA] flex flex-col md:flex-row justify-between items-center px-4 md:px-[95px] px-[95px] w-full h-[95px] border-[#EAEAEA] border-b-2 flex justify-between'>
 
-        <h1 className='font-black mt-3 text-[38px] font-bold mt-3 text-2xl md:text-[38px]'>SHOP.CO</h1>
+        <h1 className='font-black mt-3 text-[38px] mt-3 text-2xl md:text-[38px]'>SHOP.CO</h1>
 
         <Image className='h-8 mt-[10px] sm:hidden' src={require('/public/menu-regular-24.png')} alt=''/>
         
